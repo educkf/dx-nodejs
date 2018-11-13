@@ -1,3 +1,5 @@
+# Customização do SDK do MercadoPago para uso próprio em testes, não recomendo usar
+
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](https://github.com/mercadopago/px-nodejs)
 [![Build Status](https://img.shields.io/travis/mercadopago/px-nodejs/master.svg)](https://travis-ci.org/mercadopago/px-nodejs)
 [![Coverage Status](https://coveralls.io/repos/github/mercadopago/px-nodejs/badge.svg?branch=master)](https://coveralls.io/github/mercadopago/px-nodejs?branch=master)
